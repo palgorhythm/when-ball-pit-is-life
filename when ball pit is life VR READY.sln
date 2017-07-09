@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "when ball pit is life VR READY.Plugins", "when ball pit is life VR READY.Plugins.csproj", "{9409D182-7654-D0B9-B710-585BC94C1009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "when ball pit is life VR READY", "when ball pit is life VR READY.csproj", "{A6ECD391-087E-486C-529A-4F9022B329CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "when ball pit is life VR READY.Editor.Plugins", "when ball pit is life VR READY.Editor.Plugins.csproj", "{8169EE8C-274C-4385-DDD2-F71B4831F946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "when ball pit is life VR READY.Editor", "when ball pit is life VR READY.Editor.csproj", "{5757E45D-B50F-582B-5ACD-B768420A059A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9409D182-7654-D0B9-B710-585BC94C1009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9409D182-7654-D0B9-B710-585BC94C1009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9409D182-7654-D0B9-B710-585BC94C1009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9409D182-7654-D0B9-B710-585BC94C1009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6ECD391-087E-486C-529A-4F9022B329CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ECD391-087E-486C-529A-4F9022B329CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ECD391-087E-486C-529A-4F9022B329CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ECD391-087E-486C-529A-4F9022B329CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8169EE8C-274C-4385-DDD2-F71B4831F946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8169EE8C-274C-4385-DDD2-F71B4831F946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8169EE8C-274C-4385-DDD2-F71B4831F946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8169EE8C-274C-4385-DDD2-F71B4831F946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5757E45D-B50F-582B-5ACD-B768420A059A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5757E45D-B50F-582B-5ACD-B768420A059A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5757E45D-B50F-582B-5ACD-B768420A059A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5757E45D-B50F-582B-5ACD-B768420A059A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
